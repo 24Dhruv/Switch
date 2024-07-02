@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class practprob {
+public class cal {
     public static void main(String args[]){
            int calender =sc.nextInt();
             switch (calender) {
